@@ -9,8 +9,8 @@ import { isDark } from '/~/logic'
       to="/"
       focusable="false"
     >
-      <img v-show="isDark" src="/bug-grey.svg" alt="logo">
-      <img v-show="!isDark" src="/bug.svg" alt="logo">
+      <img v-show="isDark" src="/Bug-grey.svg" alt="logo">
+      <img v-show="!isDark" src="/Bug.svg" alt="logo">
     </router-link>
     <nav class="nav">
       <div class="spacer" />
