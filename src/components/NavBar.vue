@@ -34,9 +34,6 @@ import { isDark } from '/~/logic'
         <a href="https://github.com/bcgalvin" target="_blank" title="GitHub" class="hidden md:block">
           <uil-github-alt />
         </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="hidden md:block">
-          <la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
-        </a>
         <toggle-theme />
       </div>
     </nav>
