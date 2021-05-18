@@ -6,7 +6,7 @@ description: List of projects
 projects:
   Data Science:
     - name: 'Metaflow'
-      link: 'https://github.com/netflix/metaflow'
+      link: 'https://metaflow.org/'
       desc: 'A framework for real-life data science'
       icon: 'metaflow'
 ---
