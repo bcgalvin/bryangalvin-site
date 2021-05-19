@@ -1,11 +1,12 @@
 ---
 title: Notes - Bryan Galvin
 display: Notes
-subtitle: Quick notes / tips
-description: Quick notes / tips
+subtitle: Quick notes / tips / TODOS
+description: Quick notes / tips / TODOS
 ---
 
+### Blog Posts
 
-<article>
-
-</article>
+- projen
+- kitty
+- cfnInclude

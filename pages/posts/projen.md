@@ -5,5 +5,3 @@ lang: en
 duration: 25min
 ---
 
-
-test2
