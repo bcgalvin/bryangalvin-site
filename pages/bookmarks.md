@@ -14,5 +14,7 @@ subtitle: Reading List
 
 - <https://github.com/comento/guardduty-to-slack>
 - <https://github.com/awslabs/aws-cfn-template-flip>
+- <https://github.com/stelligent/cfn_nag>
+- <https://github.com/PyCQA/bandit>
 - <https://www.openpolicyagent.org/docs/latest>
 - <https://routley.io/posts/bespoke-software-rss-aggregator/>
