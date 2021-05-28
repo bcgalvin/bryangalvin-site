@@ -10,3 +10,4 @@ description: Quick notes / tips / TODOS
 - projen
 - kitty
 - cfnInclude
+- [rain](https://github.com/aws-cloudformation/rain)
