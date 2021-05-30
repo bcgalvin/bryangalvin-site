@@ -11,3 +11,6 @@ description: Quick notes / tips / TODOS
 - kitty
 - cfnInclude
 - [rain](https://github.com/aws-cloudformation/rain)
+- [cdk-dia](https://github.com/pistazie/cdk-dia)
+- [cfn-diagram](https://github.com/mhlabs/cfn-diagram)
+- [evb-cli](https://github.com/mhlabs/evb-cli)
