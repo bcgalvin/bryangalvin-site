@@ -26,3 +26,4 @@ description: Quick notes / tips / TODOS
 - [evb-cli](https://github.com/mhlabs/evb-cli)
 - [aws-toolkit for vs code](https://aws.amazon.com/visualstudio/)
 - [cdk-dasm](https://github.com/aws/aws-cdk/tree/master/packages/cdk-dasm)
+- [decdk](https://github.com/aws/aws-cdk/tree/master/packages/decdk)
