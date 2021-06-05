@@ -28,3 +28,4 @@ description: Quick notes / tips / TODOS
 - [cdk-dasm](https://github.com/aws/aws-cdk/tree/master/packages/cdk-dasm)
 - [decdk](https://github.com/aws/aws-cdk/tree/master/packages/decdk)
 - [pacu](https://github.com/RhinoSecurityLabs/pacu)
+- [aws perspective](https://github.com/awslabs/aws-perspective)
